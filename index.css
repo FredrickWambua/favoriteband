@@ -42,3 +42,9 @@ p{
     font-size: medium;
     font-style: italic;
 }
+
+ul{
+    list-style-type: none;
+    overflow: auto;
+   
+}
