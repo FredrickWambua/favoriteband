@@ -45,6 +45,14 @@ p{
 
 ul{
     list-style-type: none;
-    overflow: auto;
+    /* overflow: auto; */
+   
+}
+
+.boxed{
+    border: 3px solid grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
    
 }
