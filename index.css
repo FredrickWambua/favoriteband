@@ -56,12 +56,13 @@ p{
 .favorite h2{
     color: honeydew;
     margin-top: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 10pxg;
 }
 
 .favorite p{
     font-size: medium;
     font-style: italic;
+    color: honeydew;
 }
 
 hr{
@@ -98,4 +99,9 @@ ul{
     color: whitesmoke;
     font-size: medium;
    
+}
+
+a:link{
+    color: white;
+
 }
