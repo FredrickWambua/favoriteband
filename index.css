@@ -105,3 +105,11 @@ a:link{
     color: white;
 
 }
+
+a:hover{
+    color: purple;
+}
+
+/* a:visited{
+    color: green;
+} */
