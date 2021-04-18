@@ -1,2 +1,2 @@
-# favoriteband
-My favorite band project.
+# My personal favorite band.
+
