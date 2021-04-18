@@ -26,3 +26,19 @@ p{
     text-align: center;
     margin: 10px 60px 30px 60px;
 }
+
+.favorite{
+    color: black;
+    text-align: center;
+    font-size: larger;
+  
+}
+/* 
+.favorite h1{
+    color: honeydew;
+} */
+
+.favorite p{
+    font-size: medium;
+    font-style: italic;
+}
