@@ -84,6 +84,10 @@ ul{
    
 }
 
+.boxed h1{
+    color: honeydew;
+}
+
 .article{
     display: flex;
     margin: 5px 10px 5px 10px;
