@@ -5,6 +5,12 @@
     
 }
 
+.backg{
+    background-image: url(images/imgcover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #photo-radii{
     display: block;
     border-radius: 50%;
@@ -12,6 +18,19 @@
     margin-left: auto;
    
 
+}
+/* 
+.about-cover{
+    background-color: black;
+    opacity: 0.8;
+} */
+
+.about{
+   
+    color: white;
+    margin: 30px 80px 50px 80px;
+    text-align: center;
+   
 }
 
 h1{
