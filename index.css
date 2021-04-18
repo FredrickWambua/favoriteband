@@ -62,3 +62,14 @@ ul{
     margin: 5px 10px 5px 10px;
    
  }
+
+ .spacing{
+    padding-left: 50px;
+}
+
+.spacing p{
+    margin: 20px;
+    color: whitesmoke;
+    font-size: medium;
+   
+}
