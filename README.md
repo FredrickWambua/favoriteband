@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# favoriteband
-This is s project webpage that describes my favourite band #Imagine Dragons#
-=======
+
 # favorite Band.
 This is is a webpage that describes my favourite band.
 ## Project description
