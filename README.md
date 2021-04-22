@@ -1,5 +1,5 @@
 
-# favorite Band.
+# Favorite Band.
 This is is a webpage that describes my favourite band.
 ## Project description
 This project describes my favorite band Imagine Dragons. The webpage is purely built on HTML-78% and CSS 22%.
