@@ -1,5 +1,7 @@
 .logo{
     text-align: center;
+ 
+   
 
    
     
@@ -9,6 +11,7 @@
     background-image: url(images/imgcover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 20px;
 }
 
 #photo-radii{
